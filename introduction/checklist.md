@@ -1,1 +1,1 @@
-[x] finished item 1
+- [x] finished item 1
